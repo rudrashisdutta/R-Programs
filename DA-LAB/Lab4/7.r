@@ -1,8 +1,7 @@
 convert <- function(n) {
-    if(n == 0) {
+    if (n == 0) {
         cat(0)
-    }
-    else {
+    } else {
         cat(n %% 2)
         convert(as.integer(n / 2))
     }

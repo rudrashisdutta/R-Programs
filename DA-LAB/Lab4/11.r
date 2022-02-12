@@ -8,4 +8,4 @@ a <- function(cc) {
     print(paste("Quantile : ", quantile(cc)))
 }
 
-a(c(1,3,5,7,8,5))
+a(c(1, 3, 5, 7, 8, 5))

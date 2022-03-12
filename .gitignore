@@ -398,3 +398,5 @@ vignettes/*.pdf
 *.code-workspace
 *.exe
 *.out
+*.ini
+*.tmp*

@@ -400,3 +400,4 @@ vignettes/*.pdf
 *.out
 *.ini
 *.tmp*
+.ipynb_checkpoints/

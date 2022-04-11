@@ -401,3 +401,4 @@ vignettes/*.pdf
 *.ini
 *.tmp*
 .ipynb_checkpoints/
+*.png
